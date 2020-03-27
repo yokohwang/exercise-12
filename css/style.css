@@ -1,0 +1,43 @@
+/* style.css */
+
+body {
+  font: 16px/1.5 sans-serif;
+}
+
+div {
+  background-color: rgb(242,87,30);
+  width: 200px;
+  height: 200px;
+}
+
+section {
+  width: 600px;
+  height: 200px;
+  border: 1px solid #222;
+  margin-bottom: 20px;
+}
+
+#long {
+  height: 250px;
+}
+
+#box01 {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+#box02 {
+  float: right;
+}
+
+#box03 {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  
+}
+
+.clear-me {
+  clear: both;
+}
